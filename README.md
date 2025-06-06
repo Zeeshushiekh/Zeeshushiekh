@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zeeshushiekh
-- 👀 I’m interested in ..c++ .
-- 🌱 I’m currently learning competative question on hackerearth
-- 💞️ I’m looking to collaborate on for project related to web devellopment and c++ .
+- 👀 I’m interested in ..Springboot .
+- 🌱 I’m currently Working in Cdac as full stack developer
+- 💞️ I’m looking to collaborate on for project related to springboot  .
 - 📫 How to reach me zeeshannid12@gmail.com
 
 <!---
