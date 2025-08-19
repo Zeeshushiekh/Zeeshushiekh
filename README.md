@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Zeeshushiekh
-- 👀 I’m interested in ..Springboot .
-- 🌱 I’m currently Working in Cdac as full stack developer
-- 💞️ I’m looking to collaborate on for project related to springboot  .
-- 📫 How to reach me zeeshannid12@gmail.com
+# 👋 Hi, I’m Mohammad Zeeshan (@Zeeshushiekh)
 
-<!---
-Zeeshushiekh/Zeeshushiekh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in building scalable applications using **Spring Boot** and modern full-stack technologies.  
+- 🌱 I’m currently working at **CDAC Noida** as a **Full Stack Developer**, focusing on secure, real-time systems.  
+- 💞️ I’m looking to collaborate on **Spring Boot, Java, and React projects**.  
+- 📫 Reach me at: **zeeshannid12@gmail.com**  
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/mohammad-zeeshan-615b65162)  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Java, C++, JavaScript, SQL, HTML, CSS  
+- **Frameworks:** Spring Boot, React.js, Bootstrap  
+- **Tools:** Postman, VS Code, Eclipse  
+- **Concepts:** OOPS, DSA, REST API, SDLC, MVC  
+
+---
+
+### 🚀 Projects
+- **Real-Time Chat Application** – Built with **Spring Boot, React, WebSocket (SockJS + STOMP), MySQL**  
+- **Student Management System** – CRUD-based app using **Spring Boot, MySQL, Bootstrap**  
+
+---
+
+### 🏆 Achievements
+- Appreciation Letter from **CDAC Noida** for delivering a secure, production-ready module  
+- Camp Manager at **BloodConnect** – organized blood donation camps  
+- Former Head of **Business Club** – led online marketing and social media campaigns  
