@@ -4,7 +4,7 @@
 - 🌱 I’m currently working at **CDAC Noida** as a **Full Stack Developer**, focusing on secure, real-time systems.  
 - 💞️ I’m looking to collaborate on **Spring Boot, Java, and React projects**.  
 - 📫 Reach me at: **zeeshannid12@gmail.com**  
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/mohammad-zeeshan-615b65162)  
+- 🔗 Connect with me on [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
 
 ---
 
